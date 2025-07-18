@@ -9,6 +9,7 @@ const Colaborador = ({nome, imagem, cargo, time, corPrimaria, corSecundaria}) =>
                 <h4>{nome}</h4>
                 <h4>{cargo}</h4>
                 <h4>{time}</h4>
+                
             </div>
             
         </div>
